@@ -60,7 +60,7 @@ Desenvolvimento de um **Star Schema** voltado à análise das atividades de prof
 
 **Competências demonstradas:** modelagem dimensional, tabelas fato e dimensão, granularidade, relacionamentos e MySQL.
 
-[Ver projeto Modelagem Dimensional de Universidade](https://github.com/RoddyRamosG/universidade-star_schema-sql)
+[Ver projeto Modelagem Dimensional de Universidade](https://github.com/RoddyRamosG/universidade-star-schema-sql)
 
 ### 🔧 Banco de Dados para Oficina Mecânica
 
@@ -84,7 +84,7 @@ Relatório analítico para acompanhamento do desempenho de vendas, lucratividade
 
 **Competências demonstradas:** Power BI, indicadores financeiros, visualização de dados e análise de negócios.
 
-[Ver projeto Dashboard Financeiro em Power BI](https://github.com/RoddyRamosG/power_bi_financial_analyst)
+[Ver projeto Dashboard Financeiro em Power BI](https://github.com/RoddyRamosG/power-bi-financial-dashboard)
 
 ## Projeto em desenvolvimento 🚧
 
